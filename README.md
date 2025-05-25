@@ -86,7 +86,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/ea6be071-607b-4fb9-8c7d-62c92a7069bd)
+![Screenshot 2025-05-25 113324](https://github.com/user-attachments/assets/4a37d7d3-9515-472b-a0ce-00cad2a789ce)
+
 
 
 
@@ -109,7 +110,7 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-![323129948-5aabd7ac-1817-4351-aefc-b4ee5ebb65a8](https://github.com/user-attachments/assets/3a409088-6992-46a8-b0e5-c19627bcb7b7)
+![image](https://github.com/user-attachments/assets/ea6be071-607b-4fb9-8c7d-62c92a7069bd)
 
 # RESULT:
 The program is executed successfully.
