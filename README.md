@@ -86,7 +86,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/1e656616-dae4-472f-9de4-93d4ef7165fd)
+![image](https://github.com/user-attachments/assets/ea6be071-607b-4fb9-8c7d-62c92a7069bd)
+
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
